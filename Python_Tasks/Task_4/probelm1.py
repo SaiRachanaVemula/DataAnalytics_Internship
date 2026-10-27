@@ -1,3 +1,7 @@
+#1.Python If-Else
+#https://www.hackerrank.com/challenges/py-if-else/problem
+
+
 i=int(input())
 if i%2==0 and 2<i<5:
     print("Not Weird")
